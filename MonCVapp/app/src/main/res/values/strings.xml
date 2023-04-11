@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MonCVapp</string>
+     <string name="nom">Tandjigora</string>
+    <string name="prenom">Ibrahim</string>
+    <string name="email">tandjigora@gmail.com</string>
+    <string name="numero">0701030405</string>
+    <string name="exp1">technicien réseau</string>
+    <string name="exp2">vendeur</string>
+    <string name="Langue1">Langages</string>
+    <string name="Projet">Projet</string>
+
+</resources>
